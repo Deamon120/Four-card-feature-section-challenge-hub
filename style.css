@@ -1,0 +1,140 @@
+body {
+  background-color: hsl(0, 0%, 98%);
+
+
+
+}
+main {
+  position: relative;
+  width: 1440px;
+  height: 1440px;
+}
+
+.header {
+  width: 600px;
+  position: absolute;
+  top: 10px;
+  left: 450px;
+}
+
+.supervisor {
+ background-color: white;
+ width: 400px;
+ height: 300px;
+ position: absolute;
+ top: 400px;
+ left: 100px;
+ border-radius: 15px;
+
+}
+
+.team-builder {
+  background-color: white;
+  width: 400px;
+  height: 300px;
+  position: absolute;
+  top: 300px;
+  left: 540px;
+}
+
+.karma {
+  background-color: white;
+  width: 400px;
+  height: 300px;
+  position: absolute;
+  top: 620px;
+  left: 540px;
+}
+
+.calculator {
+  background-color: white;
+  width: 400px;
+  height: 300px;
+  position: absolute;
+  top: 400px;
+  left: 980px;
+}
+
+h1 {
+  font-family: 'Poppins', sans-serif;
+  font-weight: 200;
+  font-size: 40px;
+  text-align: center;
+
+}
+
+h2 {
+font-family: 'Poppins', sans-serif;
+margin-left: 40px;
+}
+
+.paragraph {
+  font-family: 'Poppins', sans-serif;
+  color: hsl(229, 6%, 66%);
+  line-height: 1.5;
+  font-size: 20px;
+  text-align: center;
+}
+
+strong {
+  font-family: 'Poppins', sans-serif;
+  font-weight: 700;
+  color: black;
+}
+.cards {
+  font-size: 15px;
+  font-family: 'Poppins', sans-serif;
+  color: hsl(229, 6%, 66%);
+  line-height: 1.5;
+  margin-left: 40px;
+  margin-right: 20px;
+}
+
+
+
+
+
+.red {
+  margin-top: 0px;
+  height: 9px;
+  background-color:  hsl(0, 78%, 62%);
+  border-top-left-radius:  15px;
+  border-top-right-radius: 15px;
+
+
+
+
+}
+
+.cyan {
+  margin-top: 0px;
+
+  height: 9px;
+  background-color: hsl(180, 62%, 55%);
+  border-top-left-radius:  15px;
+  border-top-right-radius: 15px;
+}
+
+.blue {
+  margin-top: 0px;
+
+  height: 9px;
+  background-color: hsl(212, 86%, 64%);
+  border-top-left-radius:  15px;
+  border-top-right-radius: 15px;
+}
+
+.orange {
+  margin-top: 0px;
+  height: 9px;
+  background-color:  hsl(34, 97%, 64%);
+  border-top-left-radius:  15px;
+  border-top-right-radius: 15px;
+}
+
+img {
+  width: 60px;
+  margin-top: 60px;
+  margin-left: 300px;
+
+}
